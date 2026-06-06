@@ -38,7 +38,7 @@ for i in range(len(data)):
         plt.plot(data[i][0][0], data[i][0][1], "xb")  # "xb" : croix "x" bleue "b"
 
 plt.title("Jeu de donnees fictif pour KNN")
-plt.savefig("knn_data.png")
+plt.savefig("knn.png")
 plt.close()
 
 
