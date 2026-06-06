@@ -5,7 +5,7 @@ Personal experiments around basic ML.
 ## Projects
 
 - Supervised learning :  KNN
-- Unsupervised learning : clustering
+- Unsupervised learning : clustering K-means
 
 ## Setup
 
